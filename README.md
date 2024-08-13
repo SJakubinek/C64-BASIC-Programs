@@ -22,6 +22,14 @@ Usually you had to guess the number the computer picked. I made it the opposite 
 ## ELOPUNKT
 I am honest. This one wasn't made by me, when I was a child. It was made in July 2024 for the standings of a virtual Soccer Cup, which I streamed and want to do again in two years. So this one is for calculating the points in a way FIFA does for the World Records of Soccer teams. See [this](https://en.wikipedia.org/wiki/FIFA_Men%27s_World_Ranking#Calculation_method) for further details. Of course this program had to be written for the C64 as the Soccer Cup has been played on it.
 
+## TIMER
+This one calculates the time difference between the start of the program, loop or whatever and end of it.
+Created in 08/2024 for fun
+
+## PRIMZAHL
+This is just the sieve of Eratosthenes. Nothing special.
+Created in 08/2024 for fun
+
 # How to use
 Type them in on the real machine or your prefered emulator.
 
